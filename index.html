@@ -204,8 +204,16 @@
             }
             // Versuchsanzahl und Hinweis von Anfang an anzeigen.
             document.getElementById("attempts").innerHTML = "Deine Versuche: " + versuch;
+            //bei jeder Erhöhung von 'versuch' wird eine Variable neu in LocalStorage gespeichert, hiermit arbeitet 3D Vista dann
+            saveVarIntoLocalStorage();
             document.getElementById("tip").innerHTML = "Um mehr über die Pflanze oder den Lebensraum zu erfahren<br> verweile kurz mit dem Mauszeiger auf dem Bild.";
         }
+        
+        //mit dieser Funktion können Variablen in den LocalStorage gespeichert werden, worüber auch 3D Vista mit diesen arbeitet und zugreifen kann
+        function saveVarIntoLocalStorage(){
+        window.localStorage.setItem('versuch', document.getElementById('versuch').value);
+        }
+
     </script>
 </head>
 
