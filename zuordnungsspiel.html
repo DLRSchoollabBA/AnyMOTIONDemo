@@ -93,6 +93,8 @@
 
         // Zähle die Versuche
         var versuch = 0;
+        var score = 0;
+        window.localStorage.setItem("score", 0);
 
         // Spiel beendet wenn alle 9 erraten
         var erraten = 0;
@@ -162,6 +164,7 @@
                         document.getElementById('messages').innerHTML = "Schade, die beiden passen nicht zusammen...";
                     }
                     ++versuch;
+                    window.localStorage.setItem("score", versuch);
                 }, 250);
 
                 setTimeout(() => {
@@ -205,14 +208,10 @@
             // Versuchsanzahl und Hinweis von Anfang an anzeigen.
             document.getElementById("attempts").innerHTML = "Deine Versuche: " + versuch;
             //bei jeder Erhöhung von 'versuch' wird eine Variable neu in LocalStorage gespeichert, hiermit arbeitet 3D Vista dann
-            saveVarIntoLocalStorage();
             document.getElementById("tip").innerHTML = "Um mehr über die Pflanze oder den Lebensraum zu erfahren<br> verweile kurz mit dem Mauszeiger auf dem Bild.";
         }
         
         //mit dieser Funktion können Variablen in den LocalStorage gespeichert werden, worüber auch 3D Vista mit diesen arbeitet und zugreifen kann
-        function saveVarIntoLocalStorage(){
-        window.localStorage.setItem('versuch', document.getElementById('versuch').value);
-        }
 
     </script>
 </head>

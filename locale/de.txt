@@ -1,0 +1,50 @@
+#: locale=de
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = AnyMOTIONDemo
+
+## Skin
+
+### Button
+Button_2C708C87_3C2E_3FE5_41CD_6C646CCCB326.label = weiter
+Button_2D386B77_3C1D_F92F_4185_666EA3C0515E.label = weiter
+
+### Multiline Text
+HTMLText_2459545C_3C70_C990_41B9_4F1AD0D76B7E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.719599427753935vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.72vmin;font-family:'Frutiger 45 Light';"><B>This is an example main Title</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:2.5751072961373387vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.58vmin;font-family:'Frutiger 45 Light';"><B>Some Subtitle text</B></SPAN></SPAN></DIV></div>
+HTMLText_276AF742_3CD3_F7F0_41C8_5C6B7A4668BE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:2.09vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.96vmax;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.09vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.96vmax;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.09vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.96vmax;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.09vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.96vmax;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.09vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.96vmax;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.09vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.96vmax;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:2.702702702702702vmax;"><SPAN STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.7vmax;font-family:'Frutiger 45 Light';"><B>Willkommen zum Zuordnungsspiel, unknown_name.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:2.702702702702702vmax;"><SPAN STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.7vmax;font-family:'Frutiger 45 Light';"><B>Starte das Spiel mit Klick auf 'weiter'.</B></SPAN></SPAN></DIV></div>
+HTMLText_2C700C7C_3C2E_3F2B_41CA_E77EE091A7A5.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:2.09vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.96vmax;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.09vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.96vmax;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.09vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.96vmax;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.09vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.96vmax;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.09vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.96vmax;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.09vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.96vmax;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:2.702702702702702vmax;"><SPAN STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.7vmax;font-family:'Frutiger 45 Light';"><B>Willkommen zum Zuordnungsspiel, unknown_name.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:2.702702702702702vmax;"><SPAN STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.7vmax;font-family:'Frutiger 45 Light';"><B>Starte das Spiel mit Klick auf 'weiter'.</B></SPAN></SPAN></DIV></div>
+HTMLText_2DDA57A8_3C22_492C_41CC_6B982BF6438D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.8135048231511335vmax;"><SPAN STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.81vmax;font-family:'Frutiger 45 Light';">Sie ist gelb, krumm und gehört zu den beliebtesten Obstsorten in Deutschland. Doch bis die Banane bei uns im Supermarkt landet, muss sie eine lange Reise bewältigen. Hat der Transport  irgendwelche Auswirkungen auf unsere Umwelt und das Klima?​ </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:2.8135048231511335vmax;"><SPAN STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.81vmax;font-family:'Frutiger 45 Light';">Mit dieser Frage beschäftigen sich die Schüler-innen und Schüler in diesem Experiment. Dazu erstellen sie am PC für den Weg von der Bananenplantage in Ecuador bis zum Berliner Supermarkt verschiedene Verkehrsrouten mit unterschiedlichen Verkehrsmitteln. Dafür eine zutreffende CO2-Bilanz aufzustellen, ist nicht einfach … sondern Wissenschaft!Sie ist gelb, krumm und gehört zu den beliebtesten Obstsorten in Deutschland. Doch bis die Banane bei uns im Supermarkt landet, muss sie eine lange Reise bewältigen. Hat der Transport  irgendwelche Auswirkungen auf unsere Umwelt und das Klima?​ </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:2.8135048231511335vmax;"><SPAN STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.81vmax;font-family:'Frutiger 45 Light';">Mit dieser Frage beschäftigen sich die Schüler-innen und Schüler in diesem Experiment. Dazu erstellen sie am PC für den Weg von der Bananenplantage in Ecuador bis zum Berliner Supermarkt verschiedene Verkehrsrouten mit unterschiedlichen Verkehrsmitteln. Dafür eine zutreffende CO2-Bilanz aufzustellen, ist nicht einfach … sondern Wissenschaft!</SPAN></SPAN></DIV></div>
+HTMLText_2E0C0652_3C50_C990_4185_D1BEFDF77B2C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:1.470588235294117vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.47vw;font-family:'Frutiger 45 Light';">Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often referred to as the "Red Planet".[16][17] The latter refers to the effect of the iron oxide prevalent on Mars's surface, which gives it a reddish appearance distinctive among the astronomical bodies visible to the naked eye.[18] Mars is a terrestrial planet with a thin atmosphere, with surface features reminiscent of the impact craters of the Moon and the valleys, deserts and polar ice caps of Earth.</SPAN></SPAN></DIV></div>
+
+### Label
+Label_2C796C53_3C2E_3F7C_41A5_D21146572F0F.text = Zuordnungsspiel
+Label_2C7F8C76_3C2E_3F27_41A6_EFF00860D500.text = Welche Pflanze gehört zu welchem Lebensraum?
+Label_2DA427A0_3C22_49DC_41A0_E16309FAA305.text = Willkommen zur Demo!
+Label_2DD927AB_3C22_4923_41AC_6CFA77FF3B9E.text = Name, mache das Spiel erst fertig! (Hier Variable abfragen)
+Label_2DDBD7A1_3C22_49DC_41BC_99FD2B413458.text = Interaktion 3D Vista mit Variablen eingebundener Webseiten
+
+### Tooltip
+Container_2C715C89_3C2E_3FED_41C8_E3713C80379C.toolTip = Kleine Teilchen und große Planeten
+Container_2DA4E79C_3C22_49E4_41C7_51A165E1A647.toolTip = Kleine Teilchen und große Planeten
+Container_2E0C5652_3C50_C990_41C8_519BD503148B.toolTip = Kleine Teilchen und große Planeten
+IconButton_2C7FDC76_3C2E_3F27_41C3_BC4CC407E5C7.toolTip = Schließen
+IconButton_2DDAA7A3_3C22_49DC_41CC_DE1C1E8B48D9.toolTip = Schließen
+
+## Media
+
+### Titel
+panorama_36D790C2_3BE2_5E5E_41AF_2DB9665CD2E8.label = Export_Astrobio-Comic
+video_2C31DA04_3F0F_D15B_4173_72E6041DE4A8.label = Screenshot (2)
+video_2C3578CA_3F3E_D2EC_41C0_659189562E0D.label = Kresse_mittel_Fl
+video_2C7CFFC3_3F12_4EE0_4186_59C1C5E5CC8E.label = MikroskopScreen
+video_2E9E7436_3F12_71A7_41BC_B97B757F6D1A.label = Screenshot (2)
+video_2F2B1C68_3F32_71AB_41CD_CE734DB0867B.label = Screenshot (1)
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_2A6F22DB_3EB7_5EA3_41B4_14013061EF76.toolTip = Demo Zuordnungsspiel
