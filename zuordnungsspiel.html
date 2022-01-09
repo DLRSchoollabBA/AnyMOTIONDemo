@@ -164,7 +164,7 @@
                         document.getElementById('messages').innerHTML = "Schade, die beiden passen nicht zusammen...";
                     }
                     ++versuch;
-                    window.localStorage.setItem("score", versuch);
+                    window.localStorage.setItem("score", versuch); //bei jeder Erhöhung von 'versuch' wird eine Variable neu in LocalStorage gespeichert, hiermit arbeitet 3D Vista dann
                 }, 250);
 
                 setTimeout(() => {
@@ -207,7 +207,6 @@
             }
             // Versuchsanzahl und Hinweis von Anfang an anzeigen.
             document.getElementById("attempts").innerHTML = "Deine Versuche: " + versuch;
-            //bei jeder Erhöhung von 'versuch' wird eine Variable neu in LocalStorage gespeichert, hiermit arbeitet 3D Vista dann
             document.getElementById("tip").innerHTML = "Um mehr über die Pflanze oder den Lebensraum zu erfahren<br> verweile kurz mit dem Mauszeiger auf dem Bild.";
         }
         
